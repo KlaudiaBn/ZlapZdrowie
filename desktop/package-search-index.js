@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.klaudiabaran.game.desktop"},{"l":"pl.klaudiabaran.zlapzdrowie"},{"l":"pl.klaudiabaran.zlapzdrowie.game"},{"l":"pl.klaudiabaran.zlapzdrowie.menu"}];updateSearchResults();
